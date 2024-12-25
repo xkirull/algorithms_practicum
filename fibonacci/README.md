@@ -1,0 +1,5 @@
+# Fibonacci algorithm
+
+## Описание
+
+
