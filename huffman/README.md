@@ -5,10 +5,10 @@
 Данная директория содержит реализацию алгоритма Хаффмана для кодирования и декодирования строк.
 
 ### Алгоритмы реализованы в следующих файлах
-- Кодирования строки ([huffman_encoding.js](/huffman_encoding.js))
-- Декодирования строки ([huffman_decoding.js](/huffman_decoding.js))
-- Утилитарные функции ([utils.js](/utils.js))
-- Основной исполняемый ([main.js](/main.js))
+- Кодирования строки ([huffman_encoding.js](/huffman/huffman_encoding.js))
+- Декодирования строки ([huffman_decoding.js](/huffman/huffman_decoding.js))
+- Утилитарные функции ([utils.js](/huffman/utils.js))
+- Основной исполняемый ([main.js](/huffman/main.js))
 
 ## Инструкция по запуску
 
