@@ -7,11 +7,11 @@
 Алгоритмы продемонстрированы в одном исполняемом файле main.c, который позволяет сравнить производительность каждого из решений.
 
 ## Алгоритмы
-- Рекурсивный метод ([fib_recursive.c](/fib_recursive.c)):
-- Использование цикла ([fib_loop.c](/fib_loop.c)):
-- Запись ряда в массив ([fib_array.c](/fib_array.c)):
-- Формула Бине ([fib_binet.c](/fib_binet.c)):
-- Определение четности ([fib_big_even_odd.c](/fib_big_even_odd.c)):
+- Рекурсивный метод ([fib_recursive.c](/fibonacci/fib_recursive.c)):
+- Использование цикла ([fib_loop.c](/fibonacci/fib_loop.c)):
+- Запись ряда в массив ([fib_array.c](/fibonacci/fib_array.c)):
+- Формула Бине ([fib_binet.c](/fibonacci/fib_binet.c)):
+- Определение четности ([fib_big_even_odd.c](/fibonacci/fib_big_even_odd.c)):
 
 ## Инструкция по запуску
 
